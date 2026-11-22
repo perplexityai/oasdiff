@@ -936,26 +936,26 @@ request-body-property-names-added: adicionada a restrição 'propertyNames' ao c
 request-body-not-added: adicionada a restrição 'not' ao corpo da requisição
 request-body-property-names-removed: removida a restrição 'propertyNames' do corpo da requisição
 request-body-not-removed: removida a restrição 'not' do corpo da requisição
-request-body-additional-properties-narrowed: "restringido 'additionalProperties' do corpo da requisição de '%s' para '%s'"
-request-body-additional-properties-widened: "ampliado 'additionalProperties' do corpo da requisição de '%s' para '%s'"
+request-body-additional-properties-narrowed: "restringido 'additionalProperties' do corpo da requisição de %s para %s"
+request-body-additional-properties-widened: "ampliado 'additionalProperties' do corpo da requisição de %s para %s"
 request-property-property-names-added: adicionada a restrição 'propertyNames' à propriedade de requisição %s
 request-property-not-added: adicionada a restrição 'not' à propriedade de requisição %s
 request-property-property-names-removed: removida a restrição 'propertyNames' da propriedade de requisição %s
 request-property-not-removed: removida a restrição 'not' da propriedade de requisição %s
-request-property-additional-properties-narrowed: "restringido 'additionalProperties' da propriedade de requisição %s de '%s' para '%s'"
-request-property-additional-properties-widened: "ampliado 'additionalProperties' da propriedade de requisição %s de '%s' para '%s'"
+request-property-additional-properties-narrowed: "restringido 'additionalProperties' da propriedade de requisição %s de %s para %s"
+request-property-additional-properties-widened: "ampliado 'additionalProperties' da propriedade de requisição %s de %s para %s"
 response-body-property-names-added: adicionada a restrição 'propertyNames' ao corpo da resposta para o status %s
 response-body-not-added: adicionada a restrição 'not' ao corpo da resposta para o status %s
 response-body-property-names-removed: removida a restrição 'propertyNames' do corpo da resposta para o status %s
 response-body-not-removed: removida a restrição 'not' do corpo da resposta para o status %s
-response-body-additional-properties-narrowed: "restringido 'additionalProperties' do corpo da resposta de '%s' para '%s' para o status %s"
-response-body-additional-properties-widened: "ampliado 'additionalProperties' do corpo da resposta de '%s' para '%s' para o status %s"
+response-body-additional-properties-narrowed: "restringido 'additionalProperties' do corpo da resposta de %s para %s para o status %s"
+response-body-additional-properties-widened: "ampliado 'additionalProperties' do corpo da resposta de %s para %s para o status %s"
 response-property-property-names-added: adicionada a restrição 'propertyNames' à propriedade de resposta %s para o status %s
 response-property-not-added: adicionada a restrição 'not' à propriedade de resposta %s para o status %s
 response-property-property-names-removed: removida a restrição 'propertyNames' da propriedade de resposta %s para o status %s
 response-property-not-removed: removida a restrição 'not' da propriedade de resposta %s para o status %s
-response-property-additional-properties-narrowed: "restringido 'additionalProperties' da propriedade de resposta %s de '%s' para '%s' para o status %s"
-response-property-additional-properties-widened: "ampliado 'additionalProperties' da propriedade de resposta %s de '%s' para '%s' para o status %s"
+response-property-additional-properties-narrowed: "restringido 'additionalProperties' da propriedade de resposta %s de %s para %s para o status %s"
+response-property-additional-properties-widened: "ampliado 'additionalProperties' da propriedade de resposta %s de %s para %s para o status %s"
 request-body-property-names-added-description: restrição 'propertyNames' adicionada ao corpo da requisição
 request-body-not-added-description: restrição 'not' adicionada ao corpo da requisição
 request-body-property-names-removed-description: restrição 'propertyNames' removida do corpo da requisição
