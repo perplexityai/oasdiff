@@ -960,6 +960,7 @@ response-property-property-names-removed: удалено ограничение 
 response-property-not-removed: удалено ограничение 'not' из поля ответа %s для статуса %s
 response-property-additional-properties-narrowed: "сужено 'additionalProperties' свойства ответа %s с %s до %s для статуса %s"
 response-property-additional-properties-widened: "расширено 'additionalProperties' свойства ответа %s с %s до %s для статуса %s"
+response-property-added-to-closed-object: "добавлено свойство %s в ответе со статусом %s, у которого 'additionalProperties: false'"
 request-body-property-names-added-description: ограничение 'propertyNames' добавлено в тело запроса
 request-body-not-added-description: ограничение 'not' добавлено в тело запроса
 request-body-property-names-removed-description: ограничение 'propertyNames' удалено из тела запроса
@@ -984,6 +985,7 @@ response-property-property-names-removed-description: ограничение 'pr
 response-property-not-removed-description: ограничение 'not' удалено из поля ответа
 response-property-additional-properties-narrowed-description: "'additionalProperties' сужено в свойстве ответа"
 response-property-additional-properties-widened-description: "'additionalProperties' расширено в свойстве ответа"
+response-property-added-to-closed-object-description: "добавлено свойство в закрытый объект ответа"
 request-body-unevaluated-items-added: добавлено ограничение 'unevaluatedItems' в тело запроса
 request-body-unevaluated-items-removed: удалено ограничение 'unevaluatedItems' из тела запроса
 request-body-unevaluated-properties-added: добавлено ограничение 'unevaluatedProperties' в тело запроса
