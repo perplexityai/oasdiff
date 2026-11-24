@@ -960,7 +960,7 @@ response-property-property-names-removed: удалено ограничение 
 response-property-not-removed: удалено ограничение 'not' из поля ответа %s для статуса %s
 response-property-additional-properties-narrowed: "сужено 'additionalProperties' свойства ответа %s с %s до %s для статуса %s"
 response-property-additional-properties-widened: "расширено 'additionalProperties' свойства ответа %s с %s до %s для статуса %s"
-response-property-added-to-closed-object: "добавлено свойство %s в ответе со статусом %s, у которого 'additionalProperties: false'"
+response-property-added-to-closed-object: "добавлено свойство %s в ответе со статусом %s, у которого '%s'"
 request-body-property-names-added-description: ограничение 'propertyNames' добавлено в тело запроса
 request-body-not-added-description: ограничение 'not' добавлено в тело запроса
 request-body-property-names-removed-description: ограничение 'propertyNames' удалено из тела запроса
