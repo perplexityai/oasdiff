@@ -8,8 +8,8 @@ import (
 )
 
 const (
-	numOfChecks = 160
-	numOfIds    = 801
+	numOfChecks = 162
+	numOfIds    = 809
 )
 
 func TestNewConfig(t *testing.T) {
